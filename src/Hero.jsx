@@ -5,16 +5,13 @@ const Hero = () => {
     <section className='hero'>
       <div className='hero-center'>
         <div className='hero-title'>
-          <h1>Contentful CMS</h1>
+          <h1>My Projects</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. In
-            repellendus laborum cumque, nisi adipisci perferendis maxime
-            voluptatem ad eius totam illum quisquam delectus voluptas tenetur.
-            Eveniet aut fugit laudantium culpa minus quisquam eos suscipit
-            facilis architecto, ad dolorum error? In perspiciatis sit laborum,
+            These are some of my projects using various technology like React,
+            NextJs, Redux, etc... showcasing my skills and abilities.
           </p>
         </div>
-        <div className='hero-container'>
+        <div className='img-container'>
           <img src={hero} alt='hero' className='img' />
         </div>
       </div>
